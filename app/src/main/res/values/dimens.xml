@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="top_height">47dp</dimen>
+    <dimen name="topbar_title_size">19dp</dimen>
+    <dimen name="bottom_height">45dp</dimen>
+
+    <dimen name="loading_dailog_h">100dp</dimen>
+    <dimen name="loading_dailog_w">100dp</dimen>
+</resources>
